@@ -44,3 +44,11 @@ Imagify is your gateway to fast, intelligent, and creative image generation.
 ```bash
 git clone https://github.com/your-username/imagify.git
 cd imagify
+
+## 2. 🛠️ Backend Setup
+
+1. Navigate to the backend folder:
+   ```bash
+   cd backend
+   npm install
+
