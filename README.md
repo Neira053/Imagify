@@ -114,10 +114,6 @@ Imagify is a powerful web application that transforms text prompts into stunning
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - [ClipDrop API](https://clipdrop.co/apis) for image generation
