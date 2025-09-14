@@ -1,7 +1,5 @@
 # Imagify - AI Image Generation Application
 
-![Imagify Logo]
-
 ## Overview
 
 Imagify is a powerful web application that transforms text prompts into stunning images using AI technology. With an intuitive interface and seamless user experience, Imagify makes it easy to generate creative visuals from simple text descriptions.
