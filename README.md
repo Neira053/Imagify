@@ -1,6 +1,6 @@
 # Imagify - AI Image Generation Application
 
-![Imagify Logo](./public/favicon.svg)
+![Imagify Logo]
 
 ## Overview
 
